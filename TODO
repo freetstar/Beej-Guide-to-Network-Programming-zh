@@ -1,0 +1,22 @@
+content
+-------
+file transfer example maybe in son of data encapsulation
+multicast?
+event IO
+
+bg2fo
+-----
+url hyperlinks in PDF
+auto-manpage links in <func> tags.
+<code file="..." />
+<code annotate="y">  ]]><foo>blaj</foo><![CDATA[
+
+bg2html
+-------
+auto-manpage links in <func> tags.
+<code file="..." />
+<code annotate="y">  ]]><foo>blaj</foo><![CDATA[
+
+misc
+----
+
